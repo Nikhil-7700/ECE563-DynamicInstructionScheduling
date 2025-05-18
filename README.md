@@ -1,6 +1,6 @@
 # Dynamic Instruction Scheduling Simulator
 
-This repository implements a C++ simulator for modeling an out-of-order superscalar processor using dynamic instruction scheduling. Developed for **ECE 563: Computer Architecture** at NC State University, this simulator mimics the behavior of a modern processor pipeline, including instruction fetch, decode, rename, issue, execute, writeback, and retire stages.
+This repository implements a C++ simulator for modeling an out-of-order superscalar processor using dynamic instruction scheduling. This simulator mimics the behavior of a modern processor pipeline, including instruction fetch, decode, rename, issue, execute, writeback, and retire stages.
 
 ## Project Summary
 
